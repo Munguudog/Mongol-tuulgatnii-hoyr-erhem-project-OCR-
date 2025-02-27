@@ -1,0 +1,802 @@
+[
+    {
+        "image_path": "question_folder\\question_0.png",
+        "label": "ᠭᠠᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_1.png",
+        "label": "ᠤᠲᠠᠰᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_2.png",
+        "label": "ᠴᠢᠨᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_3.png",
+        "label": "ᠰᠦᠢᠷᠡᠴᠢᠬᠡᠪᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_4.png",
+        "label": "ᠦᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_0.png",
+        "label": "ᠡᠨᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_1.png",
+        "label": "ᠭᠠᠷ"
+    },
+    {
+        "image_path": "answer_folder\\answer_2.png",
+        "label": "ᠤᠲᠠᠰᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_3.png",
+        "label": "ᠠᠮᠠᠷᠬᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_5.png",
+        "label": "ᠪᠢᠳᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_6.png",
+        "label": "ᠶᠠᠭᠤᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_7.png",
+        "label": "ᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_8.png",
+        "label": "ᠤᠴᠢᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_9.png",
+        "label": "ᠠᠴᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_10.png",
+        "label": "ᠠᠮᠢᠳᠤᠷᠠᠵᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_11.png",
+        "label": "ᠪᠠᠢᠬᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_12.png",
+        "label": "ᠪᠤᠶ"
+    },
+    {
+        "image_path": "answer_folder\\answer_4.png",
+        "label": "ᠠᠮᠢᠳᠤᠷᠠᠯ"
+    },
+    {
+        "image_path": "answer_folder\\answer_5.png",
+        "label": "ᠪᠤᠯ"
+    },
+    {
+        "image_path": "answer_folder\\answer_6.png",
+        "label": "ᠵᠢᠷᠠᠭᠠᠯ"
+    },
+    {
+        "image_path": "question_folder\\question_13.png",
+        "label": "ᠪᠦᠯᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_14.png",
+        "label": "ᠱᠧᠨᠶᠠᠩ"
+    },
+    {
+        "image_path": "question_folder\\question_15.png",
+        "label": "ᠳᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_7.png",
+        "label": "ᠲᠡᠢᠮᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_8.png",
+        "label": "ᠡᠨᠳᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_16.png",
+        "label": "ᠴᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_17.png",
+        "label": "ᠬᠠᠷᠢᠵᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_18.png",
+        "label": "ᠢᠷᠡᠬᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_19.png",
+        "label": "ᠭᠡᠵᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_9.png",
+        "label": "ᠬᠠᠷᠢᠵᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_10.png",
+        "label": "ᠢᠷᠡᠭᠡᠳ"
+    },
+    {
+        "image_path": "answer_folder\\answer_11.png",
+        "label": "ᠬᠡᠳᠦᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_12.png",
+        "label": "ᠡᠳᠦᠷ"
+    },
+    {
+        "image_path": "answer_folder\\answer_13.png",
+        "label": "ᠰᠠᠭᠤᠬᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_14.png",
+        "label": "ᠭᠡᠵᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_20.png",
+        "label": "ᠲᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_21.png",
+        "label": "ᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_22.png",
+        "label": "ᠳᠡᠯᠭᠡᠭᠦᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_23.png",
+        "label": "ᠲᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_24.png",
+        "label": "ᠲᠤᠰᠬᠠᠶᠢᠯᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_25.png",
+        "label": "ᠥᠨᠳᠡᠭᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_26.png",
+        "label": "ᠲᠡᠶ"
+    },
+    {
+        "image_path": "question_folder\\question_27.png",
+        "label": "ᠪᠣᠭᠣᠷᠰᠣᠭ"
+    },
+    {
+        "image_path": "question_folder\\question_28.png",
+        "label": "ᠬᠢᠳᠡᠭ"
+    },
+    {
+        "image_path": "answer_folder\\answer_15.png",
+        "label": "ᠪᠢᠳᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_16.png",
+        "label": "ᠭᠠᠭᠴᠠ"
+    },
+    {
+        "image_path": "answer_folder\\answer_17.png",
+        "label": "ᠥᠨᠳᠡᠭᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_18.png",
+        "label": "ᠪᠣᠭᠣᠷᠰᠣᠭ"
+    },
+    {
+        "image_path": "answer_folder\\answer_19.png",
+        "label": "ᠬᠤᠳᠠᠯᠳᠤᠳᠠᠭ"
+    },
+    {
+        "image_path": "answer_folder\\answer_20.png",
+        "label": "ᠠᠮᠲᠠᠯᠠᠵᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_21.png",
+        "label": "ᠦᠵᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_29.png",
+        "label": "ᠵᠣᠭᠰᠣᠴᠢᠬᠠᠪᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_30.png",
+        "label": "ᠤᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_31.png",
+        "label": "ᠬᠠᠷᠢᠬᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_32.png",
+        "label": "ᠥᠬᠡᠶ"
+    },
+    {
+        "image_path": "answer_folder\\answer_22.png",
+        "label": "ᠪᠤᠷᠤᠭᠠᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_23.png",
+        "label": "ᠵᠤᠭᠰᠤᠭᠠᠳ"
+    },
+    {
+        "image_path": "answer_folder\\answer_24.png",
+        "label": "ᠨᠡᠯᠢᠶᠡᠳ"
+    },
+    {
+        "image_path": "question_folder\\question_33.png",
+        "label": "ᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_34.png",
+        "label": "ᠲᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_35.png",
+        "label": "ᠪᠠᠰᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_36.png",
+        "label": "ᠵᠠᠮ"
+    },
+    {
+        "image_path": "question_folder\\question_37.png",
+        "label": "ᠳᠠᠭᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_38.png",
+        "label": "ᠪᠠᠶᠢᠭᠰᠠᠭᠠᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_39.png",
+        "label": "ᠤᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_25.png",
+        "label": "ᠵᠠᠮ"
+    },
+    {
+        "image_path": "answer_folder\\answer_26.png",
+        "label": "ᠪᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_27.png",
+        "label": "ᠤᠳᠠᠬᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_28.png",
+        "label": "ᠦᠭᠡᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_40.png",
+        "label": "ᠶᠠᠰᠤᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_41.png",
+        "label": "ᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_42.png",
+        "label": "ᠬᠠᠳᠠᠭᠠᠰᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_43.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_44.png",
+        "label": "ᠴᠣᠬᠢᠬᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_45.png",
+        "label": "ᠳᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_46.png",
+        "label": "ᠶᠡᠬᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_47.png",
+        "label": "ᠦᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_29.png",
+        "label": "ᠦᠨᠳᠦᠰᠦᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_30.png",
+        "label": "ᠳᠡᠭᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_31.png",
+        "label": "ᠮᠡᠰᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_32.png",
+        "label": "ᠵᠠᠰᠠᠯ"
+    },
+    {
+        "image_path": "answer_folder\\answer_33.png",
+        "label": "ᠤᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_34.png",
+        "label": "ᠳᠠᠷᠠᠭᠠᠬᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_35.png",
+        "label": "ᠲᠤᠰᠬᠠᠯ"
+    },
+    {
+        "image_path": "answer_folder\\answer_36.png",
+        "label": "ᠪᠠᠶᠢᠬᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_48.png",
+        "label": "ᠱᠠᠩᠨᠠᠯ"
+    },
+    {
+        "image_path": "question_folder\\question_49.png",
+        "label": "ᠤᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_50.png",
+        "label": "ᠮᠥᠩᠭᠥ"
+    },
+    {
+        "image_path": "question_folder\\question_51.png",
+        "label": "ᠦᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_37.png",
+        "label": "ᠦᠭᠭᠦᠵᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_38.png",
+        "label": "ᠲᠡᠢᠯᠡᠬᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_39.png",
+        "label": "ᠪᠢᠳᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_40.png",
+        "label": "ᠶᠠᠳᠠᠭᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_52.png",
+        "label": "ᠦᠨᠡᠬᠡᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_53.png",
+        "label": "ᠬᠥᠮᠦᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_54.png",
+        "label": "ᠳᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_55.png",
+        "label": "ᠶᠠᠪᠤᠭᠤᠯᠪᠠᠯ"
+    },
+    {
+        "image_path": "question_folder\\question_56.png",
+        "label": "ᠴᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_57.png",
+        "label": "ᠶᠠᠮᠠᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_58.png",
+        "label": "ᠲᠤᠰᠬᠠᠯ"
+    },
+    {
+        "image_path": "question_folder\\question_59.png",
+        "label": "ᠲᠠᠶ"
+    },
+    {
+        "image_path": "question_folder\\question_60.png",
+        "label": "ᠪᠣᠯᠬᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_61.png",
+        "label": "ᠪᠤᠶ"
+    },
+    {
+        "image_path": "answer_folder\\answer_41.png",
+        "label": "ᠨᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_42.png",
+        "label": "ᠲᠡᠷᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_43.png",
+        "label": "ᠪᠤᠷᠤᠭᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_44.png",
+        "label": "ᠬᠥᠮᠦᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_45.png",
+        "label": "ᠶᠠᠪᠤᠭᠤᠯᠤᠭᠰᠠᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_46.png",
+        "label": "ᠡᠰᠡᠬᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_47.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_62.png",
+        "label": "ᠴᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_63.png",
+        "label": "ᠭᠤᠤᠠᠩᠵᠧᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_64.png",
+        "label": "ᠳᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_65.png",
+        "label": "ᠦᠯᠡᠳᠡᠬᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_66.png",
+        "label": "ᠭᠡᠵᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_67.png",
+        "label": "ᠤᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_48.png",
+        "label": "ᠭᠡᠨᠡᠳᠲᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_49.png",
+        "label": "ᠡᠶᠢᠮᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_50.png",
+        "label": "ᠪᠣᠳᠣᠯ"
+    },
+    {
+        "image_path": "answer_folder\\answer_51.png",
+        "label": "ᠲᠠᠶ"
+    },
+    {
+        "image_path": "answer_folder\\answer_52.png",
+        "label": "ᠪᠣᠯᠤᠭᠰᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_68.png",
+        "label": "ᠲᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_69.png",
+        "label": "ᠬᠤᠷᠢᠮ"
+    },
+    {
+        "image_path": "answer_folder\\answer_53.png",
+        "label": "ᠲᠦᠯᠦᠪᠯᠡᠵᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_70.png",
+        "label": "ᠥᠨᠥᠳᠦᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_71.png",
+        "label": "ᠪᠡᠭᠡᠵᠢᠩ"
+    },
+    {
+        "image_path": "question_folder\\question_72.png",
+        "label": "ᠳᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_73.png",
+        "label": "ᠪᠣᠬᠢᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_74.png",
+        "label": "ᠮᠠᠨᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_75.png",
+        "label": "ᠥᠬᠡᠶ"
+    },
+    {
+        "image_path": "question_folder\\question_76.png",
+        "label": "ᠦᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_54.png",
+        "label": "ᠲᠩᠷᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_55.png",
+        "label": "ᠮᠠᠰᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_56.png",
+        "label": "ᠰᠠᠶᠢᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_77.png",
+        "label": "ᠪᠠᠶᠢᠰᠢᠩ"
+    },
+    {
+        "image_path": "question_folder\\question_78.png",
+        "label": "ᠢᠶᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_79.png",
+        "label": "ᠡᠷᠢᠴᠢᠬᠡᠪᠡ"
+    },
+    {
+        "image_path": "question_folder\\question_80.png",
+        "label": "ᠦᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_57.png",
+        "label": "ᠡᠩ"
+    },
+    {
+        "image_path": "answer_folder\\answer_58.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_59.png",
+        "label": "ᠨᠢᠭᠡᠨᠲᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_60.png",
+        "label": "ᠵᠥᠭᠡᠭᠡᠵᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_81.png",
+        "label": "ᠣᠳᠣ"
+    },
+    {
+        "image_path": "question_folder\\question_82.png",
+        "label": "ᠴᠢᠮᠠᠳᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_83.png",
+        "label": "ᠤᠯᠠᠭᠠᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_84.png",
+        "label": "ᠬᠡᠷᠡᠭ"
+    },
+    {
+        "image_path": "question_folder\\question_85.png",
+        "label": "ᠲᠡᠶ"
+    },
+    {
+        "image_path": "answer_folder\\answer_61.png",
+        "label": "ᠨᠢᠭᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_62.png",
+        "label": "ᠬᠠᠶᠢᠷᠴᠠᠭ"
+    },
+    {
+        "image_path": "answer_folder\\answer_63.png",
+        "label": "ᠢᠶᠠᠷ"
+    },
+    {
+        "image_path": "answer_folder\\answer_64.png",
+        "label": "ᠪᠥᠭᠡᠮ"
+    },
+    {
+        "image_path": "answer_folder\\answer_65.png",
+        "label": "ᠢᠶᠡᠷ"
+    },
+    {
+        "image_path": "answer_folder\\answer_66.png",
+        "label": "ᠬᠤᠳᠠᠯᠳᠤᠵᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_86.png",
+        "label": "ᠴᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_87.png",
+        "label": "ᠬᠥᠮᠦᠨ"
+    },
+    {
+        "image_path": "question_folder\\question_88.png",
+        "label": "ᠢ"
+    },
+    {
+        "image_path": "question_folder\\question_89.png",
+        "label": "ᠮᠥᠷᠭᠥᠭᠡᠳ"
+    },
+    {
+        "image_path": "question_folder\\question_90.png",
+        "label": "ᠮᠠᠨᠠᠷᠠᠭᠤᠯᠴᠢᠬᠠᠪᠠ"
+    },
+    {
+        "image_path": "answer_folder\\answer_67.png",
+        "label": "ᠬᠦᠮᠦᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_68.png",
+        "label": "ᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_69.png",
+        "label": "ᠲᠣᠯᠣᠭᠠᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_70.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_71.png",
+        "label": "ᠬᠡᠷᠡᠷᠮ"
+    },
+    {
+        "image_path": "question_folder\\question_91.png",
+        "label": "ᠨᠢᠰᠬᠡᠯ"
+    },
+    {
+        "image_path": "question_folder\\question_92.png",
+        "label": "ᠳᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_93.png",
+        "label": "ᠰᠠᠭᠤᠬᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_94.png",
+        "label": "ᠳᠦ"
+    },
+    {
+        "image_path": "question_folder\\question_95.png",
+        "label": "ᠲᠠ"
+    },
+    {
+        "image_path": "question_folder\\question_96.png",
+        "label": "ᠨᠠᠷ"
+    },
+    {
+        "image_path": "question_folder\\question_97.png",
+        "label": "ᠶᠠᠭᠠᠬᠢᠵᠤ"
+    },
+    {
+        "image_path": "question_folder\\question_98.png",
+        "label": "ᠴᠠᠭ"
+    },
+    {
+        "image_path": "question_folder\\question_99.png",
+        "label": "ᠨᠥᠭᠴᠢᠭᠡᠬᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_72.png",
+        "label": "ᠡᠭᠦᠯᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_73.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_74.png",
+        "label": "ᠦᠵᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_75.png",
+        "label": "ᠵᠢᠯᠣᠭᠣᠴᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_76.png",
+        "label": "ᠶᠢᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_77.png",
+        "label": "ᠥᠷᠥᠭᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_78.png",
+        "label": "ᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_79.png",
+        "label": "ᠨᠢᠰᠬᠡᠭᠴᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_80.png",
+        "label": "ᠶᠠᠭᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_81.png",
+        "label": "ᠬᠢᠵᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_82.png",
+        "label": "ᠪᠠᠶᠢᠬᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_83.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_84.png",
+        "label": "ᠵᠠᠬᠢᠷᠤᠭᠴᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_85.png",
+        "label": "ᠠᠴᠠ"
+    },
+    {
+        "image_path": "answer_folder\\answer_86.png",
+        "label": "ᠲᠡᠳᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_87.png",
+        "label": "ᠳᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_88.png",
+        "label": "ᠶᠠᠭᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_89.png",
+        "label": "ᠶᠠᠷᠢᠵᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_90.png",
+        "label": "ᠪᠠᠶᠢᠬᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_91.png",
+        "label": "ᠶᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_92.png",
+        "label": "ᠶᠡᠷᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_93.png",
+        "label": "ᠡᠴᠡ"
+    },
+    {
+        "image_path": "answer_folder\\answer_94.png",
+        "label": "ᠡᠮᠦᠰᠴᠦ"
+    },
+    {
+        "image_path": "answer_folder\\answer_95.png",
+        "label": "ᠥᠩᠭᠡᠷᠡᠭᠰᠡᠨ"
+    },
+    {
+        "image_path": "answer_folder\\answer_96.png",
+        "label": "ᠡᠪᠦᠯ"
+    },
+    {
+        "image_path": "answer_folder\\answer_97.png",
+        "label": "ᠮᠠᠰᠢ"
+    },
+    {
+        "image_path": "answer_folder\\answer_98.png",
+        "label": "ᠶᠠᠭᠤ"
+    },
+    {
+        "image_path": "answer_folder\\answer_99.png",
+        "label": "ᠴᠤ"
+    }
+]
