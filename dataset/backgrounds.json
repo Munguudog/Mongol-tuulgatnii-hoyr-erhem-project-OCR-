@@ -1,0 +1,4 @@
+[
+   {"path": "../dataset/backgrounds/black.png", "text_color": [255, 255, 255]},
+   {"path": "../dataset/backgrounds/white.png", "text_color": [0, 0, 0]}
+]
